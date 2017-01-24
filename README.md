@@ -1,5 +1,5 @@
 # Admin-Batch-Clone
-This is a clone of Admin-Batch (http://www.itninja.com/blog/view/batch-run-as-administrator-automatically-with-highest-privileges-by-tools-batch-admin)
+This is a clone of Batch_Admin (http://www.itninja.com/blog/view/batch-run-as-administrator-automatically-with-highest-privileges-by-tools-batch-admin)
 
 See "Documentation.html" for details.
 
